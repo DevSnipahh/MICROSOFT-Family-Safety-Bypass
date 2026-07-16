@@ -117,12 +117,6 @@ A: Laws vary by jurisdiction. Generally, this is legal when you own the device o
 
 ---
 
-## Contributing
-
-Improvements, corrections, and additional troubleshooting scenarios are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
-
----
-
 ## License
 
 See [LICENSE](LICENSE).
